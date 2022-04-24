@@ -7,3 +7,4 @@ I am an up and coming software engineer primarily developing web application in 
 - 💬 Ask me about Information Technology
 - - 📫 How to reach me: volunux@gmail.com or +2349022035587
 - My favorite language is Java and my favorite web application framework is Spring.
+- I am very good at Express.js, Nestjs, Angular and Spring the last three revolved around a concept called Inversion of Control and Dependency Injection.
