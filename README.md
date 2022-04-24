@@ -6,9 +6,7 @@ On the frontend, I use Angular framework.
 I love developing applications using OOP because it fits nicely with the real world I live in and its problems. 
 
 - 🔭 I’m currently working on a customer relationship management application.
-
 - 🌱 I’m currently learning to get better at Java and JavaScript
-
 - 💬 Ask me about Information Technology
 - - 📫 How to reach me: volunux@gmail.com or +2349022035587
 - My favorite language is Java and my favorite web application framework is Spring.
